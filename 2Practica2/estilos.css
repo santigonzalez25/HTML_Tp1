@@ -1,0 +1,11 @@
+ /*2.- Escribir una regla para que todos los elementos de la página aparezcan en verde.
+Ingrese algún texto y pruebe en su navegador.*/ 
+ 
+ body {
+    background-color: rgb(42, 174, 218);
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
